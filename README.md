@@ -2,8 +2,11 @@
 <h1 align="center">Lucía Martinez Gavier</h1>
 <h3 align="center">Computer Science Student</h3>
 - 🌱 I'm currently studying computer science at FaMAFyC (UNC- Córdoba, Argentina).
+- 
 - 📚 I'm passionate about continuous learning and sharing my knowledge with others.
+- 
 - 📫 You can reach me at: lucia.m.gavier@mi.unc.edu.ar
+
 - ⚡ Fun fact: I also love painting.
 
 <h3 align="left">Languages and Tools:</h3>
